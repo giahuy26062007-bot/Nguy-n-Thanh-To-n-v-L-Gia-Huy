@@ -1,0 +1,7 @@
+HƯỚNG DẪN SỬ DỤNG PCB AUTOTOOL
+
+1. Mở file.exe để chạy liền hoặc chạy bằng file.py (nhớ tải các thư viện trong file library.txt)
+2. Test bằng file BOARD_TEST
+3. Chỉnh theo thông số mong muốn
+4. Xuất file.RGN và import lại vào Project đang thực hiện trong Proteus
+
