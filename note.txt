@@ -1,7 +1,14 @@
 HƯỚNG DẪN SỬ DỤNG PCB AUTOTOOL
+Lưu ý: Chương trình sẽ chạy tốt hơn nếu file đầu vào là file EDF, nếu muốn dùng file SDF thì phải nạp đầy đủ footprint của các linh kiện có trong file.
 
 1. Mở file.exe để chạy liền hoặc chạy bằng file.py (nhớ tải các thư viện trong file library.txt)
-2. Test bằng file BOARD_TEST
+2. Test bằng file BOARD_TEST2
 3. Chỉnh theo thông số mong muốn
 4. Xuất file.RGN và import lại vào Project đang thực hiện trong Proteus
 
+CÁCH IMPORT FILE VÀO LẠI PROJECT PROTEUS
+1. Mở sẵn project đang thực hiện trên proteus
+2.Chuyển sang phần thiết kế mạch in PCB
+3.Chọn File trên góc trái rồi chọn IMPORT PROJECT CLIP
+4.Trong cửa sổ mới hãy chọn định dạng file là V7 REGION FILES(*.rgn) rồi up file lên
+Cảm ơn vì đã đọc
